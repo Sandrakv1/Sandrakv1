@@ -157,8 +157,6 @@ These cards retrieve public GitHub data dynamically. They may take a moment to l
 
 <img src="https://streak-stats.demolab.com?user=Sandrakv1&hide_border=true&theme=default" alt="GitHub contribution streak statistics" width="70%" />
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Sandrakv1&bg_color=ffffff&color=334155&line=64748b&point=0f172a&area=true&hide_border=true" alt="GitHub contribution activity graph" width="100%" />
-
 </div>
 
 ### How to read these charts
