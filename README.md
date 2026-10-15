@@ -10,7 +10,7 @@ Review all project descriptions and remove any feature that is not present in yo
 
 # Sandra KV
 
-### Aspiring Penetration Tester · Cybersecurity Engineer
+###  Penetration Tester · Cybersecurity Engineer
 
 I’m a cybersecurity-focused developer interested in identifying weaknesses, understanding how applications fail, and building software with security in mind. My areas of focus include web and API penetration testing, Android security testing, vulnerability analysis, Active Directory penetration testing, SOC operations, and prompt-injection security.
 
@@ -28,7 +28,6 @@ I’m a cybersecurity-focused developer interested in identifying weaknesses, un
 
 ## 🧭 About Me
 
-- 🎯 **Career goal:** Penetration Tester / Cybersecurity Engineer.
 - 🔎 **Security interests:** Web applications, APIs, Android applications, Active Directory environments, vulnerability analysis, SOC operations, and prompt injection.
 - 🛠️ **Developer toolkit:** Django, MySQL, JavaScript, Bootstrap, Flutter, and Dart.
 - 🧪 **Project approach:** Learn by building, test assumptions, document findings, and improve security controls.
